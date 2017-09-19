@@ -2,7 +2,7 @@
 
 > Vue2.0构建移动端音乐 App
 
-## 预览地址：
+## 预览地址：https://mryw.github.io/music/#/recommend
 
 【前端】
 
